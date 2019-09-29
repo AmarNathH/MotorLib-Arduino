@@ -5,5 +5,5 @@ Motor Library for Arduino. Is builded on top of Arduino FreeRTOS Library. Featur
 
 The library is written using VSCode with PlatformIO plugin, for running the example file you can put the MotorLib folder and the ```main.cpp``` file inside the ```src``` folder of your PlatformIO workspace.
 
-The Library is still under heavy development.
+The Library is tested in Arduino Uno with one Motor. Code still under development.
 **Feel free to test and contribute :)**
